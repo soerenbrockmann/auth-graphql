@@ -1,4 +1,4 @@
-# Auth GraphQL: A content and comment web app
+# Auth GraphQL: Identity and access management (IAM)
 
 Auth GraphQL is a simple user identity and access management (IAM) app based on React.js, Node.js, Express.js, MongoDB and GraphQL. The focus here is to handle queries like signup, login, logout, authorization with GraphQL.
 
